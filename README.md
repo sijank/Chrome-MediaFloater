@@ -1,2 +1,2 @@
 # Chrome-MediaFloater
-Chrome extension for openen youtube &amp; vimeo in floating window
+Chrome extension for poping out youtube &amp; vimeo in floating window
